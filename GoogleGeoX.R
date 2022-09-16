@@ -1,4 +1,3 @@
-# https://github.com/google/GeoexperimentsResearch/blob/master/inst/doc/GeoexperimentsResearch-vignette.pdf
 library(GeoexperimentsResearch)
 
 #sample data
